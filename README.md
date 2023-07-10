@@ -1,4 +1,5 @@
 # BigResistance
 
 Hallo Philipp,
-mein Code ist in s3.mpynp
+der fragliche Code ist in s3.ipynb.
+
